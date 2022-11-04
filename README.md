@@ -14,16 +14,19 @@ My initial VBA code used nested loops to find stock changes for a specified year
 
 ![initialcode](https://github.com/ktonge/Stock_Analysis/blob/main/initialcode.png)
 
-The main issue with this method was how long it took.  It was a quick method to put together, and looks relatively short, but its also repetatively looking through the loops.
+The main issue with this method was how long it took.  It was a quick method to put together, but its also repetatively looking through the loops over and over again to pull information
 
 ### Refactored Code
 
-The refactored code was incredibly difficult for me.  It took alot more time to put together, however, the effects on efficiency was pretty incredible.   
+The refactored code was incredibly difficult for me,  I had to do alot of debugging and reformmating to get it to work.  It took alot more time to put together, however, the effects on efficiency was pretty incredible.   
 
 ![refactoredcode](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code1.png)
 ![refactoredcode](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code2.png)
 
-Summary
+A combination of three arrays store information, that way its going through the data in a much more organized way.  
+
+##Summary
+
 I think the benefits of refactoring data are best shown in the images below:
 ![runtime](https://github.com/ktonge/Stock_Analysis/blob/main/VBA_Challenge_2018.png.png)
 ![runtimerefactored](https://github.com/ktonge/Stock_Analysis/blob/main/VBA_Challenge_2018refactored.png.png)
