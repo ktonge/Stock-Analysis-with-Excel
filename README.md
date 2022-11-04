@@ -24,4 +24,8 @@ The refactored code was incredibly difficult for me.  It took alot more time to 
 ![refactoredcode](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code2.png)
 
 Summary
-![runtime](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code2.png)
+I think the benefits of refactoring data are best shown in the images below:
+![runtime](https://github.com/ktonge/Stock_Analysis/blob/main/VBA_Challenge_2018.png.png)
+![runtimerefactored](https://github.com/ktonge/Stock_Analysis/blob/main/VBA_Challenge_2018refactored.png.png)
+
+Refactoring data reduced the time it took to ecexute from 1.83 to 0.28 seconds.   However, on the other side, the refactored code took me about five times the amount of time to write.  While the use of the array can be expanded more easily to look at for more possible stocks, if Steve was under a deadline to give the information to his client, the initial code does still work for its intended purpose.  
