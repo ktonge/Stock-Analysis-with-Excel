@@ -7,6 +7,21 @@ This module for class focused on our friend Steve seeking out more information a
 I initially set out to find out information about stock DQ, and created macros to tell us information about just that one variable.  I then expanded that code outwards once using For loops to generate information about a list of stocks.  Learning how to refractor the data to create a usable spreadsheet that could easily be updatable with new information is the final step in this module.
 
 ## Results
+
+### Initial Code
+
 My initial VBA code used nested loops to find stock changes for a specified year in my data. 
 
-![initialcode]
+![initialcode](https://github.com/ktonge/Stock_Analysis/blob/main/initialcode.png)
+
+The main issue with this method was how long it took.  It was a quick method to put together, and looks relatively short, but its also repetatively looking through the loops.
+
+### Refactored Code
+
+The refactored code was incredibly difficult for me.  It took alot more time to put together, however, the effects on efficiency was pretty incredible.   
+
+![refactoredcode](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code1.png)
+![refactoredcode](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code2.png)
+
+Summary
+![runtime](https://github.com/ktonge/Stock_Analysis/blob/main/refactored_code2.png)
