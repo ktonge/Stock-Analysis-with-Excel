@@ -28,6 +28,8 @@ A combination of three arrays store information, that way its going through the 
 ##Summary
 
 I think the benefits of refactoring data are best shown in the images below:
+
+
 ![runtime](https://github.com/ktonge/Stock_Analysis/blob/main/VBA_Challenge_2018.png.png)
 ![runtimerefactored](https://github.com/ktonge/Stock_Analysis/blob/main/VBA_Challenge_2018refactored.png.png)
 
